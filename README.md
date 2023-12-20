@@ -4,7 +4,7 @@ This is an easy-to-use template for creating a webpage for an academic paper.
 
 # Acknowledgements
 
-This template is adapted from [Nerfies website](https://nerfies.github.io).
+This webpage template is adapted from [Nerfies website](https://nerfies.github.io).
 
 # License
 
